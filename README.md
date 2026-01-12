@@ -1,39 +1,39 @@
 <div align="center">
 
-![](https://github.com/SalmanJoyia/assets/raw/main/profile-pic.png)
+![](https://github.com/salmanjoyiaa/assets/raw/main/profile-pic.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Salman+Joyia!;AI+&+ML+Enthusiast;Python+Developer+|+Data+Scientist;Self-Driven+Learner;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Salman+Iqbal+Joyia!;AI+&+ML+Enthusiast;Python+Developer+|+Data+Scientist;Self-Driven+Learner;)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/SalmanJoyia"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=38c53f&size=28&center=true&vCenter=true&width=600&height=100&lines=AI+%26+ML+Research;Data+Science+Projects;Web+%26+Automation;Adaptive+Problem-Solver;"></a>
+  <a href="https://github.com/salmanjoyiaa"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=38c53f&size=28&center=true&vCenter=true&width=600&height=100&lines=AI+%26+ML+Research;Data+Science+Projects;Web+%26+Automation;Adaptive+Problem-Solver;"></a>
 </p>
 
-![Profile Banner](https://github.com/SalmanJoyia/assets/raw/main/profile-banner.gif)
+![Profile Banner](https://github.com/salmanjoyiaa/assets/raw/main/profile-banner.gif)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SalmanJoyia&abbreviated=true&color=blue)](https://github.com/SalmanJoyia)
+[![Profile Views](https://komarev.com/ghpvc/?username=salmanjoyiaa&abbreviated=true&color=blue)](https://github.com/salmanjoyiaa)
 
 </div>
 
 ---
 
-## <picture><img src="https://github.com/SalmanJoyia/assets/raw/main/about-me.gif" width="50px"></picture> **About Me**
+## <picture><img src="https://github.com/salmanjoyiaa/assets/raw/main/about-me.gif" width="50px"></picture> **About Me**
 
 ### 💼 Professional Experience
 
 <table>
 <tr>
 <td width="50%">
-- **AI/ML Developer & Researcher**  
+- AI/ML Developer & Researcher  
   Implemented RL, Deep Learning, and NLP models for real-world projects
 
-- **Data Science Consultant**  
+- **Data Science Consultant** 
   Delivered insights, dashboards, and predictive models for clients
 
 - **Full-Stack Web Developer**  
   Developed React.js/Node.js apps and automation tools
 </td>
 <td width="50%">
-**Open to:**  
+Open to:  
 AI/ML research roles, Data Science consulting, freelance projects, automation development
 
 **Specializations:**  
@@ -133,15 +133,13 @@ Committed to continuous learning and practical implementation, while sharing kno
 <div align="center">
 
 <p align="center">
-  <a href="https://github.com/SalmanJoyia">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SalmanJoyia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SalmanJoyia&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://github.com/salmanjoyiaa">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=salmanjoyiaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salmanjoyiaa&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
-### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SalmanJoyia&theme=gotham&hide_border=true)
 
 </div>
 
@@ -151,14 +149,12 @@ Committed to continuous learning and practical implementation, while sharing kno
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/salmanjoyia/" target="_blank">
+<a href="https://www.linkedin.com/in/salmanjoyiaa/" target="_blank">
   <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="LinkedIn">
 </a>
-<a href="https://github.com/SalmanJoyia" target="_blank">
+<a href="https://github.com/salmanjoyiaa" target="_blank">
   <img src="https://img.icons8.com/doodle/48/000000/github--v1.png" alt="GitHub">
 </a>
-<a href="https://stackoverflow.com/users/16453489/salman-joyia" target="_blank">
-  <img src="https://img.icons8.com/doodle/48/000000/stackoverflow.png" alt="Stack Overflow">
-</a>
+
 
 </div>
