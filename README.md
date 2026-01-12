@@ -1,63 +1,164 @@
-# 💫 About Me:
-Hi! I’m **Salman Joyia**, an AI & Software Engineer with a strong passion for building intelligent systems, scalable backends, and automation-driven solutions.<br><br>
+<div align="center">
 
-I work at the intersection of **Artificial Intelligence, backend engineering, and system design**, combining machine learning, data science, and modern web technologies to solve real-world problems. I enjoy designing APIs, building microservices, training ML models, and automating workflows that improve efficiency and decision-making.<br><br>
+![](https://github.com/SalmanJoyia/assets/raw/main/profile-pic.png)
 
-My experience spans **Machine Learning, Deep Learning, Computer Vision, Reinforcement Learning, and Full-Stack Development**, with hands-on projects ranging from AI-powered chatbots and self-driving simulations to analytics dashboards and automation tools.<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Salman+Joyia!;AI+&+ML+Enthusiast;Python+Developer+|+Data+Scientist;Self-Driven+Learner;)](https://git.io/typing-svg)
 
-I’m currently focused on **advanced ML engineering, AI automation, cloud-based deployments, and scalable system architectures**, while continuously improving my problem-solving and research skills. I believe great engineering is not just about models or code — it’s about reliability, impact, and scalability.<br><br>
+<p align="center">
+  <a href="https://github.com/SalmanJoyia"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=38c53f&size=28&center=true&vCenter=true&width=600&height=100&lines=AI+%26+ML+Research;Data+Science+Projects;Web+%26+Automation;Adaptive+Problem-Solver;"></a>
+</p>
 
-🚀 Building intelligent systems.<br>
-🧠 AI-driven mindset.<br>
-💻 Engineering with purpose.<br><br>
+![Profile Banner](https://github.com/SalmanJoyia/assets/raw/main/profile-banner.gif)
 
-🌱 **Currently Learning**<br><br>
-Advanced Machine Learning & Deep Learning<br>
-AI Automation & Agent-based Systems<br>
-Cloud, MLOps & Scalable Architectures<br><br>
+[![Profile Views](https://komarev.com/ghpvc/?username=SalmanJoyia&abbreviated=true&color=blue)](https://github.com/SalmanJoyia)
 
-💡 **Interests**<br><br>
-Artificial Intelligence & Machine Learning<br>
-Backend & Microservices Engineering<br>
-AI Automation & Intelligent Agents<br>
-Data Science, Computer Vision & NLP<br>
+</div>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salmanjoyiaa)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Salmanjoyiaa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://aiwithsalman.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmanjoyiaa@gmail.com)
+## <picture><img src="https://github.com/SalmanJoyia/assets/raw/main/about-me.gif" width="50px"></picture> **About Me**
+
+### 💼 Professional Experience
+
+<table>
+<tr>
+<td width="50%">
+- **AI/ML Developer & Researcher**  
+  Implemented RL, Deep Learning, and NLP models for real-world projects
+
+- **Data Science Consultant**  
+  Delivered insights, dashboards, and predictive models for clients
+
+- **Full-Stack Web Developer**  
+  Developed React.js/Node.js apps and automation tools
+</td>
+<td width="50%">
+**Open to:**  
+AI/ML research roles, Data Science consulting, freelance projects, automation development
+
+**Specializations:**  
+Python | AI/ML | Deep Learning | Reinforcement Learning | Data Analysis | Automation
+</td>
+</tr>
+</table>
+
+### 👨‍💻 Professional Profile
+
+AI & Data Science specialist with experience in **reinforcement learning, deep learning, and predictive modeling**. Skilled in building **automation pipelines, web applications, and data-driven solutions**. Passionate about **learning cutting-edge AI/ML technologies** and applying them to real-world challenges.
+
+Committed to continuous learning and practical implementation, while sharing knowledge and contributing to the AI/ML community.
 
 ---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"><b> Technical Skills</b>
+
+### 💻 Programming Languages
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![R](https://img.shields.io/badge/-R-05122A?style=for-the-badge&logo=r&logoColor=276DC3)
+![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+
+</div>
+
+<table>
+<tr>
+<th>Language</th>
+<th>Proficiency</th>
+<th>Primary Use Cases</th>
+</tr>
+<tr>
+<td><b>Python</b></td>
+<td>Expert</td>
+<td>AI/ML, Data Analysis, Automation, Web Development</td>
+</tr>
+<tr>
+<td><b>JavaScript</b></td>
+<td>Expert</td>
+<td>Web Development, Node.js apps, Frontend frameworks</td>
+</tr>
+<tr>
+<td><b>R</b></td>
+<td>Intermediate</td>
+<td>Statistical Analysis, Visualization, Predictive Modeling</td>
+</tr>
+<tr>
+<td><b>C++</b></td>
+<td>Intermediate</td>
+<td>High-performance computing, AI algorithms</td>
+</tr>
+</table>
+
+### 🌐 Web & Frameworks
+
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js&logoColor=000000)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask&logoColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+### 🤖 AI/ML Tools
+
+<div align="left">
+
+<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></a>
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white"></a>
+<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
+<a href="https://gradio.app/"><img src="https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white"></a>
+
+</div>
+
+### 💾 Databases & Cloud
+
+<div align="left">
+
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+<a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+
+</div>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SalmanJoyia&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SalmanJoyia&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanJoyia&theme=neon&hide_border=false&layout=compact)
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<p align="center">
+  <a href="https://github.com/SalmanJoyia">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SalmanJoyia&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SalmanJoyia&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SalmanJoyia&theme=gotham&hide_border=true)
+
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SalmanJoyia&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with Me</h3>
 
----
-[![](https://visitcount.itsvg.in/api?id=SalmanJoyia&icon=2&color=1)](https://visitcount.itsvg.in)
+<div align="center">
 
+<a href="https://www.linkedin.com/in/salmanjoyia/" target="_blank">
+  <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="LinkedIn">
+</a>
+<a href="https://github.com/SalmanJoyia" target="_blank">
+  <img src="https://img.icons8.com/doodle/48/000000/github--v1.png" alt="GitHub">
+</a>
+<a href="https://stackoverflow.com/users/16453489/salman-joyia" target="_blank">
+  <img src="https://img.icons8.com/doodle/48/000000/stackoverflow.png" alt="Stack Overflow">
+</a>
+
+</div>
