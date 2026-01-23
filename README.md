@@ -16,8 +16,6 @@
 
 ---
 
-## <picture><img src="https://github.com/salmanjoyiaa/assets/raw/main/about-me.gif" width="50px"></picture> **About Me**
-
 ### 💼 Professional Experience
 
 <table>
